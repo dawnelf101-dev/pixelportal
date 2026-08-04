@@ -25,8 +25,11 @@ Connect your console directly to any external Bedrock server – without changin
 
 ---
 
-## 🤖 Development Note
+## 🤖 Development & Distribution Note
 
-This app was developed with the assistance of AI. Great care has been taken to ensure that the entire application is clean, secure, and completely safe to use. 
+This app was developed with the assistance of AI. Great care has been taken to ensure that the entire application is clean, secure, and completely safe to use.
 
 I use this app myself and will keep it actively maintained and up to date.
+
+**Important Note on Distribution:**  
+This app is published exclusively here on GitHub — it is not available on the Google Play Store or any other app store. Any re-distribution or publishing on other platforms is strictly prohibited. One of the primary reasons for this choice is to guarantee an environment completely free of inappropriate ads. This app is designed to be child-friendly, safe, and operates without any hidden or unnecessary permissions.
