@@ -23,4 +23,10 @@ Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz o
 * **Android-Version:** Android 8.0 (API Level 26) oder neuer.
 * **Minecraft-Einstellung:** In den Minecraft-Einstellungen muss die Option **"Sichtbar für LAN-Spieler"** aktiviert sein (`AN`).
 
-* 
+---
+
+## 🤖 Hinweis zur Entwicklung
+
+Diese App wurde mit Unterstützung von KI entwickelt. Es wurde im höchsten Maße darauf geachtet, dass die gesamte App sauber ist und keinen Schaden verursachen kann. 
+
+Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
