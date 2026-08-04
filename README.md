@@ -25,8 +25,12 @@ Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz o
 
 ---
 
-## 🤖 Hinweis zur Entwicklung
+## 🤖 Hinweis zur Entwicklung & Distribution
 
-Diese App wurde mit Unterstützung von KI entwickelt. Es wurde im höchsten Maße darauf geachtet, dass die gesamte App sauber ist und keinen Schaden verursachen kann. 
+Diese App wurde mit Unterstützung von KI entwickelt. Es wurde im höchsten Maße darauf geachtet, dass die gesamte App sauber ist und keinen Schaden verursachen kann.
 
+Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
+
+**Wichtiger Hinweis zur Veröffentlichung:**  
+Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder anderen App-Stores. Jegliche Weiterverbreitung oder Veröffentlichung auf anderen Plattformen ist nicht gestattet. Das hat unter anderem den Grund, dass ich keine unangebrachte Werbung in der App haben möchte. Die App soll auch für Kinder sicher nutzbar sein und kommt garantiert ohne versteckte Berechtigungen aus.
 Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
