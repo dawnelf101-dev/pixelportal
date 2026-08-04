@@ -22,3 +22,11 @@ Connect your console directly to any external Bedrock server – without changin
 * **Same Network:** Android phone and PS5/Xbox must be connected to the same Wi-Fi.
 * **Android Version:** Android 8.0 (API Level 26) or higher.
 * **Minecraft Setting:** **"Visible to LAN Players"** must be turned `ON` in Minecraft settings.
+
+---
+
+## 🤖 Development Note
+
+This app was developed with the assistance of AI. Great care has been taken to ensure that the entire application is clean, secure, and completely safe to use. 
+
+I use this app myself and will keep it actively maintained and up to date.
