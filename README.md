@@ -1,4 +1,4 @@
-# Minecraft Bedrock Server Connector (PS5 / Xbox)
+# PIXELPORT - Bedrock Server Connector (PS5 / Xbox)
 
 Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz ohne DNS-Änderungen oder komplizierte Einstellungen auf der Konsole.
 
