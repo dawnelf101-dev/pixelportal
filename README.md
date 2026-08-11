@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/aab6658f-3543-4e93-88ca-45d8bcacb1e9" />
 # PIXELPORT - Bedrock Server Connector (PS5 / Xbox)
 
 Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz ohne DNS-Änderungen oder komplizierte Einstellungen auf der Konsole.
