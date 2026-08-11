@@ -16,7 +16,6 @@ Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz o
 7. **Fertig:** Die App kann danach geschlossen werden — die Serververbindung bleibt bestehen.
 
 > **Vorteil:** Keine DNS-Änderung. Keine Konsoleneinstellungen. Funktioniert rein über das lokale WLAN.
-
 ---
 
 ## ⚙️ Voraussetzungen
@@ -34,5 +33,9 @@ Diese App wurde mit Unterstützung von KI entwickelt. Es wurde im höchsten Maß
 
 Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
 
+Keine Premium Funktionen! Keine versteckten Kosten wie bei allen anderen Connect Apps.
+Fügt so viele Server hinzu, wie ihr braucht :D 
+Es werden weitere Funktionen sicherlich über Zeit hinzukommen. Wichtig ist euer Feedback.
+
 **Wichtiger Hinweis zur Veröffentlichung & Nutzung:**  
-Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder anderen App-Stores. Jegliche Weiterverbreitung oder Veröffentlichung auf anderen Plattformen ist nicht gestattet. Das hat unter anderem den Grund, dass ich keine unangebrachte Werbung in der App haben möchte. Die App soll auch für Kinder sicher nutzbar sein und kommt garantiert ohne versteckte Berechtigungen aus. Bitte beachte zudem, dass auf dem Smartphone **keine aktive VPN-Verbindung** laufen darf, damit die LAN-Erkennung ordnungsgemäß funktioniert.
+Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder anderen App-Stores. Jegliche Weiterverbreitung oder Veröffentlichung auf anderen Plattformen ist nicht gestattet. Das hat unter anderem den Grund, dass ich keine unangebrachte Werbung in der App haben möchte. Die App soll auch für Kinder sicher nutzbar sein und kommt garantiert ohne versteckte Berechtigungen aus.
