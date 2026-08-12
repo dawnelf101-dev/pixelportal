@@ -10,7 +10,7 @@ Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz o
 1. **Server-IP + Port eintragen:** Beliebig viele Server abspeichern (auch externe IPs).
 2. **Microsoft Account Login abwarten:** Warten, bis der eigene Microsoft-Account im Hauptmenü von Minecraft geladen ist.
 3. **"Start" drücken:** Die App öffnet den lokalen Port `19132` auf dem Smartphone.
-4. **Im Spiel finden:** Die PS5/Xbox erkennt die App automatisch im Minecraft-Menü unter **Freunde → LAN-Spiele**.
+4. **Im Spiel finden:** Die PS5/Xbox erkennt die App automatisch im Minecraft-Menü unter **Spielen → Welten** ganz oben als ersten Eintrag.
 5. **Verbinden:** Die Konsole verbindet sich mit dem Smartphone, welches ein *Transfer Packet* mit der Ziel-IP sendet.
 6. **Direktverbindung:** Die Konsole baut die Verbindung **DIREKT** zum Ziel-Server auf.
 7. **Fertig:** Die App kann danach geschlossen werden — die Serververbindung bleibt bestehen.
