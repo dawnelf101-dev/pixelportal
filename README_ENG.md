@@ -1,37 +1,55 @@
-# PIXELPORTAL - Bedrock Server Connector (PS5 / Xbox)
+# PIXELPORT - Bedrock Server Connector (PS5 / Xbox)
 
-Connect your console directly to any external Bedrock server – without changing DNS settings or tweaking console configurations.
-
----
-
-## ⚡ How It Works
-
-1. **Enter Server IP + Port:** Save as many custom servers as you like (external IPs supported).
-2. **Wait for Microsoft Account Login:** Wait until your Microsoft account has fully loaded in the Minecraft main menu.
-3. **Press "Start":** The app opens local port `19132` on your phone.
-4. **Find in Game:** Your PS5/Xbox will discover the app under **Friends → LAN Games** in Minecraft.
-5. **Connect:** The console connects to the phone, which responds with a *Transfer Packet* containing the destination IP.
-6. **Direct Connection:** The console connects **DIRECTLY** to the target server.
-7. **Done:** You can close the app afterwards — the server connection remains active.
-
-> **Key Advantage:** No DNS changes required. No console settings to adjust. Uses local Wi-Fi only.
+Connect your console directly to any external Bedrock server — completely without changing DNS settings or dealing with complicated configurations on your console.
 
 ---
 
-## ⚙️ Requirements
+## ⚡ What the App Does
+
+1. **Enter Server IP + Port:** Save as many servers as you want (including external IPs).
+2. **Wait for Microsoft Account Login:** Wait until your Microsoft account has loaded in the Minecraft main menu.
+3. **Press "Start":** The app opens the local port `19132` on your smartphone.
+4. **Find in Game:** Your PS5/Xbox automatically detects the app in the Minecraft menu under **Friends → LAN Games**.
+5. **Connect:** The console connects to your smartphone, which sends a *Transfer Packet* with the destination IP.
+6. **Direct Connection:** Your console builds a **DIRECT** connection to the destination server.
+7. **Done:** You can close the app afterward — the server connection remains active.
+
+> **Advantage:** No DNS changes. No console adjustments required. Works entirely over your local Wi-Fi network.
+
+---
+
+## ⚙️ Prerequisites
 
 * **Same Network:** Android phone and PS5/Xbox must be connected to the same Wi-Fi network.
-* **No VPN:** The phone **must not have an active VPN connection** (as VPNs can block local LAN broadcasts).
-* **Android Version:** Android 8.0 (API Level 26) or higher.
-* **Minecraft Setting:** **"Visible to LAN Players"** must be turned `ON` in Minecraft settings.
+* **No active VPN:** The phone must **not** have an active VPN connection running (as VPNs can block local LAN broadcasts).
+* **Android Version:** Android 8.0 (API Level 26) or newer.
+* **Minecraft Setting:** The option **"Visible to LAN Players"** must be enabled (`ON`) in the Minecraft settings.
 
 ---
 
-## 🤖 Development & Distribution Note
+## 🔐 Android OS Permissions
 
-This app was developed with the assistance of AI. Great care has been taken to ensure that the entire application is clean, secure, and completely safe to use.
+To ensure PIXELPORT functions smoothly, the app requires the following system permissions:
 
-I use this app myself and will keep it actively maintained and up to date.
+### 📌 Home Screen Shortcuts & Widgets
+* **Favorites Feature:** By tapping the **star icon**, you can add your favorite servers to your favorites list so they always stay pinned at the top of the app.
+* **Server Widget:** You can add a server widget to your home screen. It displays your favorite servers along with the current online player count.
 
-**Important Note on Distribution & Usage:**  
-This app is published exclusively here on GitHub — it is not available on the Google Play Store or any other app store. Any re-distribution or publishing on other platforms is strictly prohibited. One of the primary reasons for this choice is to guarantee an environment completely free of inappropriate ads. This app is designed to be child-friendly, safe, and operates without any hidden or unnecessary permissions. Please also note that **no active VPN connection** should be running on the phone to ensure local LAN discovery works properly.
+### 🔔 Notifications & Background Execution
+* **Stable Connection:** Without this permission, the Android operating system may kill the app process in the background.
+* **Uninterrupted Transfer:** The background service ensures that the LAN connection remains stable whenever you switch to another app on your smartphone or lock your screen until the server transfer is complete.
+
+---
+
+## 🤖 Development & Distribution Notice
+
+This app was developed with the assistance of AI. Utmost care has been taken to ensure that the entire application is clean, safe, and secure to use.
+
+I use this app myself and keep it actively updated.
+
+* **No Premium Features:** No hidden costs or paywalls like with other connect apps.
+* **Unlimited:** Add as many servers as you need!
+* **Feedback Welcome:** Additional features will certainly be added over time. Your feedback is highly appreciated.
+
+> **Important Notice Regarding Release & Usage:**  
+> This app is published exclusively here on GitHub — not on the Google Play Store or any other app stores. Any redistribution or republication on other platforms is strictly prohibited. One of the main reasons for this decision is to keep the app completely **ad-free**. It should remain safe for children to use and guaranteed to come without any hidden or unnecessary permissions.
