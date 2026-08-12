@@ -1,60 +1,56 @@
 <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/aab6658f-3543-4e93-88ca-45d8bcacb1e9" />
-PIXELPORT - Bedrock Server Connector (PS5 / Xbox)
+# PIXELPORT - Bedrock Server Connector (PS5 / Xbox)
+
 Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz ohne DNS-Änderungen oder komplizierte Einstellungen auf der Konsole.
 
-⚡ Was die App macht
-Server-IP + Port eintragen: Beliebig viele Server abspeichern (auch externe IPs).
+---
 
-Microsoft Account Login abwarten: Warten, bis der eigene Microsoft-Account im Hauptmenü von Minecraft geladen ist.
+## ⚡ Was die App macht
 
-"Start" drücken: Die App öffnet den lokalen Port 19132 auf dem Smartphone.
+1. **Server-IP + Port eintragen:** Beliebig viele Server abspeichern (auch externe IPs).
+2. **Microsoft Account Login abwarten:** Warten, bis der eigene Microsoft-Account im Hauptmenü von Minecraft geladen ist.
+3. **"Start" drücken:** Die App öffnet den lokalen Port `19132` auf dem Smartphone.
+4. **Im Spiel finden:** Die PS5/Xbox erkennt die App automatisch im Minecraft-Menü unter **Freunde → LAN-Spiele**.
+5. **Verbinden:** Die Konsole verbindet sich mit dem Smartphone, welches ein *Transfer Packet* mit der Ziel-IP sendet.
+6. **Direktverbindung:** Die Konsole baut die Verbindung **DIREKT** zum Ziel-Server auf.
+7. **Fertig:** Die App kann danach geschlossen werden — die Serververbindung bleibt bestehen.
 
-Im Spiel finden: Die PS5/Xbox erkennt die App automatisch im Minecraft-Menü unter Freunde → LAN-Spiele.
+> **Vorteil:** Keine DNS-Änderung. Keine Konsoleneinstellungen. Funktioniert rein über das lokale WLAN.
 
-Verbinden: Die Konsole verbindet sich mit dem Smartphone, welches ein Transfer Packet mit der Ziel-IP sendet.
+---
 
-Direktverbindung: Die Konsole baut die Verbindung DIREKT zum Ziel-Server auf.
+## ⚙️ Voraussetzungen
 
-Fertig: Die App kann danach geschlossen werden — die Serververbindung bleibt bestehen.
+* **Gleiches Netzwerk:** Android-Handy und PS5/Xbox müssen im selben WLAN sein.
+* **Kein VPN:** Das Handy darf **keine aktive VPN-Verbindung** installiert oder aktiviert haben (da VPN den lokalen LAN-Broadcast blockieren kann).
+* **Android-Version:** Android 8.0 (API Level 26) oder neuer.
+* **Minecraft-Einstellung:** In den Minecraft-Einstellungen muss die Option **"Sichtbar für LAN-Spieler"** aktiviert sein (`AN`).
 
-Vorteil: Keine DNS-Änderung. Keine Konsoleneinstellungen. Funktioniert rein über das lokale WLAN.
+---
 
-⚙️ Voraussetzungen
-Gleiches Netzwerk: Android-Handy und PS5/Xbox müssen im selben WLAN sein.
+## 🔐 Berechtigungen auf deinem Android OS
 
-Kein VPN: Das Handy darf keine aktive VPN-Verbindung installiert oder aktiviert haben (da VPN den lokalen LAN-Broadcast blockieren kann).
+Damit PIXELPORT reibungslos funktioniert, benötigt die App folgende System-Berechtigungen:
 
-Android-Version: Android 8.0 (API Level 26) oder neuer.
+### 📌 Startbildschirm-Verknüpfungen & Widgets
+* **Favoriten-Funktion:** Über das **Stern-Symbol** kannst du deine Lieblingsserver zu den Favoriten hinzufügen. Diese werden in der App immer ganz oben angeordnet.
+* **Server-Widget:** Du kannst dir ein Widget auf deinen Hauptbildschirm legen. Dort werden deine Lieblingsserver mit der aktuellen Anzahl der Online-Spieler angezeigt.
 
-Minecraft-Einstellung: In den Minecraft-Einstellungen muss die Option "Sichtbar für LAN-Spieler" aktiviert sein (AN).
+### 🔔 Benachrichtigungen & Hintergrundbetrieb
+* **Stabile Verbindung:** Ohne diese Berechtigung kann das Android-System die App im Hintergrund beenden.
+* **Unterbrechungsfreier Transfer:** Der Hintergrunddienst garantiert, dass die LAN-Verbindung stabil bleibt, sobald du zu einer anderen App auf deinem Smartphone wechselst oder den Bildschirm sperrst, bis der Server-Transfer abgeschlossen ist.
 
-🔐 Berechtigungen & Warum sie benötigt werden
-Damit PIXELPORT reibungslos funktioniert, fragt die App nach einigen notwendigen Android-Berechtigungen. Hier erfährst du, wofür sie genau genutzt werden:
+---
 
-⭐ Verknüpfungen auf dem Startbildschirm & Widgets
-Favoriten & Schnellstart: Durch Tippen auf das Stern-Symbol kannst du deinen Lieblingsserver zu den Favoriten hinzufügen, damit er in der App immer ganz oben steht.
+## 🤖 Hinweis zur Entwicklung & Distribution
 
-Home-Screen Widget: Du kannst dir ein Server-Widget direkt auf deinen Startbildschirm legen. Das Widget zeigt dir auf einen Blick deinen Lieblingsserver sowie die aktuelle Anzahl der Online-Spieler an.
-
-🔔 Benachrichtigungen & Hintergrunddienst (Foreground Service)
-Stabile Netzwerkverbindung: Wenn du zu einer anderen App auf deinem Smartphone wechselst oder den Bildschirm sperrst, sorgt ein aktiver Hintergrunddienst dafür, dass Android die App nicht schließt.
-
-LAN-Verbindung sichern: Ohne diese Berechtigung kann die App nicht garantieren, dass die Verbindung zwischen deiner Konsole und dem Smartphone aufrechtgehalten wird, bis der Transfer zum Zielserver abgeschlossen ist.
-
-📶 Lokales Netzwerk / WLAN-Zugriff
-LAN-Broadcast: Wird benötigt, um den lokalen Port 19132 zu öffnen und das Signal im Heimnetzwerk auszusenden, damit deine PS5 oder Xbox das Smartphone unter Freunde → LAN-Spiele erkennen kann.
-
-🤖 Hinweis zur Entwicklung & Distribution
 Diese App wurde mit Unterstützung von KI entwickelt. Es wurde im höchsten Maße darauf geachtet, dass die gesamte App sauber ist und keinen Schaden verursachen kann.
 
 Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
 
-100% Kostenlos: Keine Premium-Funktionen, keine In-App-Käufe und keine versteckten Kosten wie bei anderen Connect-Apps.
+* **Keine Premium-Funktionen:** Keine versteckten Kosten wie bei allen anderen Connect-Apps.
+* **Unbegrenzt:** Fügt so viele Server hinzu, wie ihr braucht!
+* **Feedback willkommen:** Es werden sicherlich mit der Zeit weitere Funktionen hinzukommen. Wichtig ist euer Feedback.
 
-Keine Limits: Fügt so viele Server hinzu, wie ihr möchtet!
-
-Zukunftssicher: Es werden im Laufe der Zeit weitere Funktionen hinzukommen. Euer Feedback ist mir wichtig.
-
-Wichtiger Hinweis zur Veröffentlichung & Nutzung:
-
-Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder auf anderen Plattformen. Jegliche Weiterverbreitung oder erneute Veröffentlichung ist nicht gestattet. Der Grund hierfür ist unter anderem, dass die App garantiert werbefrei bleiben soll. Sie soll auch für Kinder sicher nutzbar sein und kommt ohne unberechtigte Datenabfragen aus.
+> **Wichtiger Hinweis zur Veröffentlichung & Nutzung:**  
+> Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder anderen App-Stores. Jegliche Weiterverbreitung oder Veröffentlichung auf anderen Plattformen ist nicht gestattet. Das hat unter anderem den Grund, dass ich keine unangebrachte Werbung in der App haben möchte. Die App soll auch für Kinder sicher nutzbar sein und kommt garantiert ohne versteckte Berechtigungen aus.
