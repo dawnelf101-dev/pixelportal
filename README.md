@@ -56,3 +56,55 @@ Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
 > Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder anderen App-Stores. Jegliche Weiterverbreitung oder Veröffentlichung auf anderen Plattformen ist nicht gestattet. Das hat unter anderem den Grund, dass ich keine unangebrachte Werbung in der App haben möchte. Die App soll auch für Kinder sicher nutzbar sein und kommt garantiert ohne versteckte Berechtigungen aus.
 
 <img width="1776" height="592" alt="ppdownload" src="https://github.com/user-attachments/assets/77ca1664-557c-4a6b-8bb4-11d7a83ee2d7" />
+# 📱 Pixelportal – Installationsanleitung (Android)
+
+Da **Pixelportal** als direkte APK-Datei über GitHub bereitgestellt wird, stuft Android die Anwendung beim ersten Installieren als *"unbekannte Quelle"* ein. Das ist ein ganz normaler Schutzmechanismus des Betriebssystems für Apps, die nicht direkt aus dem Google Play Store bezogen werden.
+
+Folge dieser Anleitung, um **Pixelportal** sicher auf deinem Android-Gerät zu installieren:
+
+---
+
+### 1. APK herunterladen
+1. Lade die neueste Datei **`Pixelportal.apk`** aus dem [Release-Bereich](../../releases) herunter.
+2. Tippe nach dem Download in der Benachrichtigungsleiste auf die Datei oder öffne sie über deinen **Dateimanager** / **Browser**.
+
+---
+
+### 2. Installation aus unbekannten Quellen zulassen
+Beim ersten Versuch blockiert Android die Installation automatisch.
+
+1. Tippe im eingeblendeten Fenster auf **Einstellungen**.
+2. Aktiviere den Schalter **"Dieser Quelle vertrauen"** (oder *"Apps aus dieser Quelle zulassen"*).
+3. Tippe oben links auf den **Zurück-Pfeil**, um zum Installationsmenü zurückzukehren.
+
+---
+
+### 3. Sicherheitshinweis & Bestätigung (Herstellerspezifisch)
+Je nach Herstellerschnittstelle deines Smartphones (z. B. Xiaomi oder Samsung) erscheinen nun zusätzliche Bestätigungsdialoge:
+
+* **Xiaomi / Redmi / POCO (MIUI & HyperOS):**
+  1. Es erscheint eine Warnmeldung (*"Gefahr / Unbekannte Apps"*).
+  2. Warte den **10-Sekunden-Timer** ab.
+  3. Setze das Häkchen bei *"Ich bin mir der eventuellen Risiken bewusst..."*.
+  4. Tippe auf **OK**.
+
+* **Samsung (One UI):**
+  1. Falls der *Auto Blocker* aktiv ist, fordert das System eine Bestätigung zum einmaligen Sideloading an.
+  2. Bestätige die Abfrage, um fortzufahren.
+
+---
+
+### 4. Automatische Sicherheitsprüfung
+Vor der eigentlichen Freigabe wird die Datei automatisch auf Schadcode geprüft:
+
+1. **Google Play Protect** und der integrierte **Virenscanner deines Herstellers** scannen die APK-Datei.
+2. Sobald die Überprüfung abgeschlossen ist (*"Keine Bedrohungen gefunden"*), tippe auf **Installieren**.
+
+---
+
+### 5. Fertigstellen
+Nach erfolgreicher Installation tippe auf **Öffnen**, um **Pixelportal** zu starten.
+
+---
+
+> 🔒 **Sicherheitshinweis:** Bei Pixelportal handelt es sich um eine eigenständig entwickelte Anwendung. Die Warnmeldungen von Android sind Standard-Sicherheitshinweise des Betriebssystems für alle manuell installierten Anwendungen.
