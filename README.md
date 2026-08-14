@@ -54,3 +54,5 @@ Die App wird von mir selbst genutzt und auf dem aktuellen Stand gehalten.
 
 > **Wichtiger Hinweis zur Veröffentlichung & Nutzung:**  
 > Die App wird ausschließlich hier auf GitHub veröffentlicht – nicht im Google Play Store oder anderen App-Stores. Jegliche Weiterverbreitung oder Veröffentlichung auf anderen Plattformen ist nicht gestattet. Das hat unter anderem den Grund, dass ich keine unangebrachte Werbung in der App haben möchte. Die App soll auch für Kinder sicher nutzbar sein und kommt garantiert ohne versteckte Berechtigungen aus.
+
+<img width="1776" height="592" alt="ppdownload" src="https://github.com/user-attachments/assets/77ca1664-557c-4a6b-8bb4-11d7a83ee2d7" />
