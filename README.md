@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/github/downloads/dawnelf101-dev/pixelportal/total?style=for-the-badge&color=blue" alt="Downloads">
   </a>
 </p>
-# PIXELPORT - Bedrock Server Connector (PS5 / Xbox)
+# PIXELPORTAL - Bedrock Server Connector (PS5 / Xbox)
 
 Verbinde deine Konsole direkt mit beliebigen externen Bedrock-Servern – ganz ohne DNS-Änderungen oder komplizierte Einstellungen auf der Konsole.
 
